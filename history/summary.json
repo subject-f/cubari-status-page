@@ -40,19 +40,19 @@
     "url": "https://cubari.moe/read/nhentai/177013/?cache_buster=$GITHUB_RUN_NUMBER",
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
-    "status": "down",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "status": "up",
+    "uptime": "1.42%",
+    "uptimeDay": "1.42%",
+    "uptimeWeek": "1.42%",
+    "uptimeMonth": "1.42%",
+    "uptimeYear": "1.42%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-09-08": 0
+      "2023-09-08": 18
     }
   },
   {
