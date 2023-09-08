@@ -45,7 +45,8 @@ status-website:
       href: https://discord.gg/wwD2xTbQxe
 
 workflowSchedule:
-  graphs: "0 */1 * * *"
-  responseTime: "10 */1 * * *"
-  summary: "30 */1 * * *"
+  graphs: "0 * * * *"
+  staticSite: "45 * * * *"
+  responseTime: "*/30 * * * *"
+  summary: "45 * * * *"
   uptime: "*/5 * * * *"
