@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
     "status": "up",
-    "uptime": "30.14%",
+    "uptime": "30.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.14%",
-    "uptimeMonth": "30.14%",
-    "uptimeYear": "30.14%",
+    "uptimeWeek": "30.08%",
+    "uptimeMonth": "30.08%",
+    "uptimeYear": "30.08%",
     "time": 76,
     "timeDay": 60,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-09-09": 1301,
+      "2023-09-09": 1306,
       "2023-09-08": 461
     }
   },
