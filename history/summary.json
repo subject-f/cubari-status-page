@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
     "status": "up",
-    "uptime": "24.95%",
+    "uptime": "24.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.95%",
-    "uptimeMonth": "24.95%",
-    "uptimeYear": "24.95%",
+    "uptimeWeek": "24.90%",
+    "uptimeMonth": "24.90%",
+    "uptimeYear": "24.90%",
     "time": 77,
     "timeDay": 65,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-09-10": 386,
+      "2023-09-10": 392,
       "2023-09-09": 1440,
       "2023-09-08": 461
     }
@@ -228,19 +228,19 @@
     "url": "https://cubari.moe/read/dynasty/the_engagement_of_the_disgraced_witch_and_the_cross_dressing_princess/?cache_buster=$GITHUB_RUN_NUMBER",
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-dynasty-scans",
-    "status": "down",
-    "uptime": "98.55%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.55%",
-    "time": 1181,
-    "timeDay": 1623,
-    "timeWeek": 1181,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
+    "time": 1178,
+    "timeDay": 1609,
+    "timeWeek": 1178,
+    "timeMonth": 1178,
+    "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-09-10": 44
+      "2023-09-10": 50
     }
   }
 ]
