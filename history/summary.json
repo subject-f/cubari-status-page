@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
     "status": "up",
-    "uptime": "20.10%",
+    "uptime": "20.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.10%",
-    "uptimeMonth": "20.10%",
-    "uptimeYear": "20.10%",
+    "uptimeWeek": "20.07%",
+    "uptimeMonth": "20.07%",
+    "uptimeYear": "20.07%",
     "time": 80,
     "timeDay": 87,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-09-10": 1121,
+      "2023-09-10": 1127,
       "2023-09-09": 1440,
       "2023-09-08": 461
     }
@@ -193,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-reddit",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 309,
     "timeDay": 388,
     "timeWeek": 309,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-09-10": 0
+      "2023-09-10": 6
     }
   },
   {
