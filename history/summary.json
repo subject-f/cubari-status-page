@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
     "status": "up",
-    "uptime": "45.25%",
+    "uptime": "45.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.18%",
-    "uptimeMonth": "45.25%",
-    "uptimeYear": "45.25%",
+    "uptimeWeek": "68.24%",
+    "uptimeMonth": "45.27%",
+    "uptimeYear": "45.27%",
     "time": 176,
     "timeDay": 293,
     "timeWeek": 216,
@@ -200,9 +200,9 @@
     "url": "https://cubari.moe/read/reddit/16cj0xv/?cache_buster=$GITHUB_RUN_NUMBER",
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,7 +211,9 @@
     "timeWeek": 237,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "Cubari (imgBB)",
