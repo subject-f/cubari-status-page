@@ -29,6 +29,8 @@ sites:
     url: https://cubari.moe/read/imgbb/cbx4Xq/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (Dynasty Scans)
     url: https://cubari.moe/read/dynasty/the_engagement_of_the_disgraced_witch_and_the_cross_dressing_princess/?cache_buster=$GITHUB_RUN_NUMBER
+  - name: Cubari (Catbox)
+    url: https://cubari.moe/read/catbox/r47o8s/?cache_buster=$GITHUB_RUN_NUMBER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
