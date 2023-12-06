@@ -13,7 +13,7 @@
     "time": 296,
     "timeDay": 266,
     "timeWeek": 254,
-    "timeMonth": 272,
+    "timeMonth": 273,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2023-10-19": 40
@@ -100,9 +100,9 @@
     "slug": "cubari-mang-adventure",
     "status": "up",
     "uptime": "82.55%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "84.94%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.00%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "82.55%",
     "time": 4096,
     "timeDay": 435,
@@ -110,7 +110,6 @@
     "timeMonth": 319,
     "timeYear": 4096,
     "dailyMinutesDown": {
-      "2023-12-06": 6,
       "2023-12-03": 18,
       "2023-12-02": 1425,
       "2023-12-01": 69,
@@ -257,7 +256,7 @@
     "uptime": "76.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.14%",
+    "uptimeMonth": "89.15%",
     "uptimeYear": "76.48%",
     "time": 397,
     "timeDay": 258,
