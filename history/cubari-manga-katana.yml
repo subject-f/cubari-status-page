@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/mangakatana/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UuMjAwMTMv/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 8061
-lastUpdated: 2024-01-12T08:14:12.452Z
+status: up
+code: 200
+responseTime: 4070
+lastUpdated: 2024-01-12T08:27:14.074Z
 startTime: 2023-09-08T03:38:39.817Z
 generator: Upptime <https://github.com/upptime/upptime>
