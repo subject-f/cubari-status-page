@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/nhentai/381867/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 8118
-lastUpdated: 2024-03-09T01:58:38.632Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2024-03-09T02:13:04.599Z
 startTime: 2023-09-08T03:38:26.676Z
 generator: Upptime <https://github.com/upptime/upptime>
