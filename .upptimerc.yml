@@ -26,7 +26,7 @@ sites:
   - name: Cubari (reddit)
     url: https://cubari.moe/read/reddit/16cj0xv/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (imgBB)
-    url: https://cubari.moe/read/imgbb/cbx4Xq/?cache_buster=$GITHUB_RUN_NUMBER
+    url: https://cubari.moe/read/imgbb/SQMcSX/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (Dynasty Scans)
     url: https://cubari.moe/read/dynasty/the_engagement_of_the_disgraced_witch_and_the_cross_dressing_princess/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (Catbox)
