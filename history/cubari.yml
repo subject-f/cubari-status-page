@@ -1,7 +1,7 @@
 url: https://cubari.moe/?cache_buster=$GITHUB_RUN_NUMBER
 status: up
 code: 200
-responseTime: 290
-lastUpdated: 2024-04-12T21:33:41.091Z
+responseTime: 452
+lastUpdated: 2024-04-12T22:08:28.864Z
 startTime: 2023-09-08T03:38:24.856Z
 generator: Upptime <https://github.com/upptime/upptime>
