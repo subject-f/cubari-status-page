@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/imgbb/SQMcSX/?cache_buster=$GITHUB_RUN_NUMBER
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2024-04-25T04:13:12.789Z
+status: down
+code: 500
+responseTime: 8179
+lastUpdated: 2024-04-25T04:28:10.597Z
 startTime: 2023-09-08T03:38:44.296Z
 generator: Upptime <https://github.com/upptime/upptime>
