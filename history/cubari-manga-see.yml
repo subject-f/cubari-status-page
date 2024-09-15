@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/mangasee/One-Piece/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 291
-lastUpdated: 2024-09-15T06:55:54.003Z
+status: up
+code: 200
+responseTime: 422
+lastUpdated: 2024-09-15T07:20:54.189Z
 startTime: 2023-09-08T03:38:41.184Z
 generator: Upptime <https://github.com/upptime/upptime>
