@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/gist/OPM/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 8193
-lastUpdated: 2024-10-17T19:55:46.304Z
+status: up
+code: 200
+responseTime: 346
+lastUpdated: 2024-10-17T20:36:56.426Z
 startTime: 2023-09-08T03:38:39.160Z
 generator: Upptime <https://github.com/upptime/upptime>
