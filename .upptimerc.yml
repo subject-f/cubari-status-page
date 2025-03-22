@@ -17,8 +17,8 @@ sites:
     url: https://cubari.moe/read/gist/OPM/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (MangaKatana)
     url: https://cubari.moe/read/mangakatana/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UuMjAwMTMv/?cache_buster=$GITHUB_RUN_NUMBER
-  - name: Cubari (MangaSee)
-    url: https://cubari.moe/read/mangasee/One-Piece/?cache_buster=$GITHUB_RUN_NUMBER
+  - name: Cubari (WeebCentral)
+    url: https://cubari.moe/read/weebcentral/01J76XYFYYF2DTKP6CNRJD780X/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (imgbox)
     url: https://cubari.moe/read/imgbox/cUGEkRbdZZ/?cache_buster=$GITHUB_RUN_NUMBER
   - name: Cubari (ImageChest)
