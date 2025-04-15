@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/mangadventure/aHR0cHMvYXNzb3J0ZWRzY2Fucy5jb20vdGhlLWlsbGlkYW4tZ2lybA/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 522
-responseTime: 19696
-lastUpdated: 2025-04-15T18:42:13.112Z
+status: up
+code: 200
+responseTime: 8328
+lastUpdated: 2025-04-15T18:50:06.467Z
 startTime: 2023-09-08T03:38:29.062Z
 generator: Upptime <https://github.com/upptime/upptime>
