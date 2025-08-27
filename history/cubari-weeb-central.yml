@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/weebcentral/01J76XYFYYF2DTKP6CNRJD780X/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 10070
-lastUpdated: 2025-08-27T14:08:46.108Z
+status: up
+code: 200
+responseTime: 1194
+lastUpdated: 2025-08-27T14:14:52.440Z
 startTime: 2025-03-22T09:51:04.365Z
 generator: Upptime <https://github.com/upptime/upptime>
