@@ -1,7 +1,7 @@
 url: https://cubari.moe/read/mangadex/d86cf65b-5f6c-437d-a0af-19a31f94ec55/?cache_buster=$GITHUB_RUN_NUMBER
-status: down
-code: 500
-responseTime: 234
-lastUpdated: 2025-09-23T23:48:09.421Z
+status: up
+code: 200
+responseTime: 1009
+lastUpdated: 2025-09-23T23:53:54.039Z
 startTime: 2023-09-08T03:38:25.293Z
 generator: Upptime <https://github.com/upptime/upptime>
