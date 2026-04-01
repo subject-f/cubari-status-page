@@ -6,14 +6,14 @@
     "slug": "cubari",
     "status": "up",
     "uptime": "94.30%",
-    "uptimeDay": "26.44%",
-    "uptimeWeek": "3.78%",
+    "uptimeDay": "30.50%",
+    "uptimeWeek": "4.36%",
     "uptimeMonth": "76.90%",
     "uptimeYear": "85.94%",
     "time": 559,
-    "timeDay": 266,
-    "timeWeek": 569,
-    "timeMonth": 483,
+    "timeDay": 234,
+    "timeWeek": 568,
+    "timeMonth": 482,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2026-03-31": 1003,
@@ -124,8 +124,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-07": 87,
-      "2025-04-02": 16,
-      "2025-04-01": 19
+      "2025-04-02": 16
     }
   },
   {
@@ -140,9 +139,9 @@
     "uptimeMonth": "97.47%",
     "uptimeYear": "98.57%",
     "time": 1264,
-    "timeDay": 1085,
-    "timeWeek": 1144,
-    "timeMonth": 1085,
+    "timeDay": 1084,
+    "timeWeek": 1145,
+    "timeMonth": 1082,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2026-03-31": 19,
@@ -225,18 +224,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-n-hentai",
     "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "61.45%",
-    "uptimeWeek": "90.36%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "95.43%",
-    "time": 1240,
-    "timeDay": 957,
-    "timeWeek": 552,
-    "timeMonth": 360,
+    "uptime": "98.21%",
+    "uptimeDay": "57.42%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "95.42%",
+    "time": 1241,
+    "timeDay": 1007,
+    "timeWeek": 559,
+    "timeMonth": 362,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2026-03-31": 555,
+      "2026-04-01": 10,
+      "2026-03-31": 603,
       "2026-03-30": 417,
       "2026-03-24": 48,
       "2026-03-05": 36,
@@ -330,14 +330,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.77%",
-    "time": 2109,
+    "uptimeYear": "13.76%",
+    "time": 2108,
     "timeDay": 84,
     "timeWeek": 423,
     "timeMonth": 192,
     "timeYear": 2047,
     "dailyMinutesDown": {
-      "2026-03-31": 1396,
+      "2026-04-01": 13,
+      "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -668,8 +669,7 @@
       "2025-04-07": 82,
       "2025-04-04": 592,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 845
+      "2025-04-02": 1440
     }
   },
   {
@@ -681,12 +681,12 @@
     "uptime": "91.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "55.34%",
-    "uptimeMonth": "24.32%",
+    "uptimeMonth": "24.45%",
     "uptimeYear": "78.39%",
     "time": 1369,
-    "timeDay": 868,
+    "timeDay": 872,
     "timeWeek": 4674,
-    "timeMonth": 1604,
+    "timeMonth": 1603,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-03-30": 691,
@@ -820,9 +820,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "79.19%",
+    "uptimeYear": "79.20%",
     "time": 524,
-    "timeDay": 294,
+    "timeDay": 292,
     "timeWeek": 629,
     "timeMonth": 400,
     "timeYear": 523,
@@ -942,8 +942,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -958,8 +957,8 @@
     "uptimeMonth": "85.00%",
     "uptimeYear": "87.43%",
     "time": 1300,
-    "timeDay": 1031,
-    "timeWeek": 1508,
+    "timeDay": 1036,
+    "timeWeek": 1505,
     "timeMonth": 1244,
     "timeYear": 1303,
     "dailyMinutesDown": {
@@ -1077,14 +1076,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-weeb-central",
     "status": "up",
-    "uptime": "84.06%",
+    "uptime": "84.07%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "84.28%",
+    "uptimeYear": "84.29%",
     "time": 894,
     "timeDay": 716,
-    "timeWeek": 707,
+    "timeWeek": 704,
     "timeMonth": 480,
     "timeYear": 894,
     "dailyMinutesDown": {
@@ -1197,8 +1196,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -1214,7 +1212,7 @@
     "uptimeYear": "85.08%",
     "time": 779,
     "timeDay": 480,
-    "timeWeek": 1939,
+    "timeWeek": 1929,
     "timeMonth": 913,
     "timeYear": 779,
     "dailyMinutesDown": {
@@ -1327,8 +1325,7 @@
       "2025-04-08": 474,
       "2025-04-07": 75,
       "2025-04-03": 288,
-      "2025-04-02": 1440,
-      "2025-04-01": 848
+      "2025-04-02": 1440
     }
   },
   {
@@ -1341,10 +1338,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "91.46%",
+    "uptimeYear": "91.47%",
     "time": 422,
-    "timeDay": 163,
-    "timeWeek": 545,
+    "timeDay": 164,
+    "timeWeek": 542,
     "timeMonth": 345,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -1418,8 +1415,7 @@
       "2025-04-08": 474,
       "2025-04-07": 73,
       "2025-04-03": 1199,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -1431,13 +1427,13 @@
     "uptime": "75.56%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "63.86%",
+    "uptimeMonth": "63.99%",
     "uptimeYear": "67.49%",
     "time": 287,
     "timeDay": 591,
-    "timeWeek": 576,
+    "timeWeek": 573,
     "timeMonth": 272,
-    "timeYear": 289,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2026-03-31": 19,
       "2026-03-24": 40,
@@ -1585,8 +1581,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 845
+      "2025-04-02": 1440
     }
   },
   {
@@ -1601,8 +1596,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "95.21%",
     "time": 714,
-    "timeDay": 335,
-    "timeWeek": 679,
+    "timeDay": 334,
+    "timeWeek": 676,
     "timeMonth": 463,
     "timeYear": 714,
     "dailyMinutesDown": {
@@ -1699,8 +1694,8 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "88.58%",
     "time": 620,
-    "timeDay": 360,
-    "timeWeek": 806,
+    "timeDay": 358,
+    "timeWeek": 802,
     "timeMonth": 534,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -1793,8 +1788,7 @@
       "2025-04-15": 32,
       "2025-04-08": 855,
       "2025-04-04": 19,
-      "2025-04-02": 376,
-      "2025-04-01": 842
+      "2025-04-02": 376
     }
   },
   {
@@ -1805,13 +1799,13 @@
     "status": "up",
     "uptime": "98.60%",
     "uptimeDay": "96.01%",
-    "uptimeWeek": "95.45%",
+    "uptimeWeek": "95.86%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "96.74%",
     "time": 903,
     "timeDay": 823,
-    "timeWeek": 882,
-    "timeMonth": 670,
+    "timeWeek": 833,
+    "timeMonth": 669,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2026-03-31": 57,
