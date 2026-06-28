@@ -99,7 +99,7 @@
     "timeDay": 905,
     "timeWeek": 1013,
     "timeMonth": 1232,
-    "timeYear": 1190,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-12-04": 24,
       "2025-12-06": 310,
@@ -598,7 +598,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2026-06-28": 1265,
+      "2026-06-28": 1304,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -846,7 +846,7 @@
     "uptimeYear": "86.00%",
     "time": 497,
     "timeDay": 847,
-    "timeWeek": 763,
+    "timeWeek": 772,
     "timeMonth": 1011,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -929,17 +929,17 @@
     "url": "https://cubari.moe/read/mangakatana/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UuMjAwMTMv/?cache_buster=$GITHUB_RUN_NUMBER",
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-manga-katana",
-    "status": "up",
+    "status": "down",
     "uptime": "94.96%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "62.76%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "62.72%",
     "uptimeYear": "86.72%",
-    "time": 1295,
-    "timeDay": 2147,
-    "timeWeek": 1547,
-    "timeMonth": 1560,
-    "timeYear": 1295,
+    "time": 1296,
+    "timeDay": 2650,
+    "timeWeek": 1655,
+    "timeMonth": 1586,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-07-01": 22,
       "2025-07-03": 139,
@@ -1047,7 +1047,7 @@
       "2026-06-03": 702,
       "2026-06-27": 29,
       "2026-06-26": 88,
-      "2026-06-28": 128
+      "2026-06-28": 146
     }
   },
   {
@@ -1063,7 +1063,7 @@
     "uptimeYear": "90.79%",
     "time": 773,
     "timeDay": 470,
-    "timeWeek": 408,
+    "timeWeek": 409,
     "timeMonth": 617,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -1247,7 +1247,7 @@
     "uptimeYear": "96.27%",
     "time": 394,
     "timeDay": 303,
-    "timeWeek": 272,
+    "timeWeek": 271,
     "timeMonth": 355,
     "timeYear": 392,
     "dailyMinutesDown": {
@@ -1297,16 +1297,16 @@
     "url": "https://cubari.moe/read/reddit/16cj0xv/?cache_buster=$GITHUB_RUN_NUMBER",
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-reddit",
-    "status": "down",
+    "status": "up",
     "uptime": "77.03%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "44.20%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "44.26%",
     "uptimeYear": "73.90%",
-    "time": 347,
-    "timeDay": 5720,
-    "timeWeek": 5451,
-    "timeMonth": 2894,
+    "time": 348,
+    "timeDay": 5631,
+    "timeWeek": 5440,
+    "timeMonth": 2902,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-07-03": 182,
@@ -1427,7 +1427,7 @@
       "2026-05-29": 1440,
       "2026-05-28": 353,
       "2026-06-19": 145,
-      "2026-06-28": 27
+      "2026-06-28": 39
     }
   },
   {
@@ -1443,7 +1443,7 @@
     "uptimeYear": "98.08%",
     "time": 646,
     "timeDay": 426,
-    "timeWeek": 422,
+    "timeWeek": 423,
     "timeMonth": 593,
     "timeYear": 648,
     "dailyMinutesDown": {
@@ -1515,7 +1515,7 @@
     "uptimeYear": "91.38%",
     "time": 594,
     "timeDay": 400,
-    "timeWeek": 438,
+    "timeWeek": 439,
     "timeMonth": 594,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -1595,7 +1595,7 @@
     "uptimeYear": "96.94%",
     "time": 939,
     "timeDay": 429,
-    "timeWeek": 492,
+    "timeWeek": 493,
     "timeMonth": 715,
     "timeYear": 940,
     "dailyMinutesDown": {
