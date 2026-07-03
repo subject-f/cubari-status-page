@@ -94,7 +94,7 @@
     "uptimeYear": "97.88%",
     "time": 1191,
     "timeDay": 777,
-    "timeWeek": 886,
+    "timeWeek": 871,
     "timeMonth": 1236,
     "timeYear": 1188,
     "dailyMinutesDown": {
@@ -590,7 +590,7 @@
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
-      "2026-07-03": 751,
+      "2026-07-03": 811,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -929,7 +929,7 @@
     "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.18%",
-    "uptimeMonth": "62.72%",
+    "uptimeMonth": "62.86%",
     "uptimeYear": "86.73%",
     "time": 1296,
     "timeDay": 1184,
@@ -1288,12 +1288,12 @@
     "slug": "cubari-reddit",
     "status": "down",
     "uptime": "77.13%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "97.94%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "97.34%",
     "uptimeMonth": "62.34%",
-    "uptimeYear": "73.88%",
+    "uptimeYear": "73.87%",
     "time": 369,
-    "timeDay": 5457,
+    "timeDay": 5217,
     "timeWeek": 5442,
     "timeMonth": 3763,
     "timeYear": 370,
@@ -1417,7 +1417,7 @@
       "2026-06-19": 145,
       "2026-06-28": 39,
       "2026-07-02": 140,
-      "2026-07-03": 29
+      "2026-07-03": 89
     }
   },
   {
