@@ -293,7 +293,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-mang-adventure",
     "status": "down",
-    "uptime": "56.15%",
+    "uptime": "56.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -580,7 +580,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2026-07-10": 1270,
+      "2026-07-10": 1308,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -677,8 +677,8 @@
     "slug": "cubari-imgur",
     "status": "down",
     "uptime": "91.21%",
-    "uptimeDay": "92.88%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "89.41%",
     "uptimeYear": "75.03%",
     "time": 1384,
@@ -826,7 +826,7 @@
       "2026-06-18": 41,
       "2026-06-17": 47,
       "2026-07-02": 42,
-      "2026-07-10": 103
+      "2026-07-10": 140
     }
   },
   {
@@ -927,7 +927,7 @@
     "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.91%",
+    "uptimeMonth": "87.00%",
     "uptimeYear": "86.75%",
     "time": 1297,
     "timeDay": 1246,
@@ -1057,7 +1057,7 @@
     "timeDay": 436,
     "timeWeek": 451,
     "timeMonth": 411,
-    "timeYear": 743,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-07-14": 168,
       "2025-07-21": 716,
@@ -1283,8 +1283,8 @@
     "slug": "cubari-reddit",
     "status": "down",
     "uptime": "77.28%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "97.52%",
     "uptimeMonth": "85.81%",
     "uptimeYear": "73.84%",
     "time": 404,
@@ -1414,7 +1414,7 @@
       "2026-07-03": 133,
       "2026-07-05": 76,
       "2026-07-06": 109,
-      "2026-07-10": 27
+      "2026-07-10": 65
     }
   },
   {
@@ -1498,7 +1498,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "91.44%",
+    "uptimeYear": "91.45%",
     "time": 589,
     "timeDay": 372,
     "timeWeek": 397,
