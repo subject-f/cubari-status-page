@@ -12,7 +12,7 @@
     "uptimeYear": "95.06%",
     "time": 469,
     "timeDay": 217,
-    "timeWeek": 234,
+    "timeWeek": 233,
     "timeMonth": 303,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -59,13 +59,13 @@
     "slug": "cubari-manga-dex",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "97.93%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "97.91%",
     "time": 1116,
     "timeDay": 723,
-    "timeWeek": 868,
+    "timeWeek": 867,
     "timeMonth": 838,
     "timeYear": 1112,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
       "2026-06-15": 1440,
       "2026-06-14": 115,
       "2026-08-12": 84,
-      "2026-08-31": 3
+      "2026-08-31": 63
     }
   },
   {
@@ -163,7 +163,7 @@
     "uptimeYear": "93.55%",
     "time": 567,
     "timeDay": 306,
-    "timeWeek": 451,
+    "timeWeek": 452,
     "timeMonth": 385,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -264,14 +264,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-mang-adventure",
     "status": "down",
-    "uptime": "53.51%",
+    "uptime": "53.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.54%",
     "time": 189,
     "timeDay": 60,
-    "timeWeek": 54,
+    "timeWeek": 53,
     "timeMonth": 48,
     "timeYear": 188,
     "dailyMinutesDown": {
@@ -499,7 +499,7 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2026-08-31": 44,
+      "2026-08-31": 103,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -654,7 +654,7 @@
     "uptimeYear": "61.51%",
     "time": 1073,
     "timeDay": 515,
-    "timeWeek": 466,
+    "timeWeek": 469,
     "timeMonth": 540,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -785,7 +785,7 @@
       "2026-06-18": 41,
       "2026-06-17": 47,
       "2026-07-02": 42,
-      "2026-08-31": 46,
+      "2026-08-31": 105,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -853,7 +853,7 @@
     "uptimeYear": "91.10%",
     "time": 424,
     "timeDay": 1196,
-    "timeWeek": 521,
+    "timeWeek": 525,
     "timeMonth": 509,
     "timeYear": 423,
     "dailyMinutesDown": {
@@ -917,7 +917,7 @@
     "uptimeYear": "92.16%",
     "time": 1296,
     "timeDay": 2412,
-    "timeWeek": 1680,
+    "timeWeek": 1690,
     "timeMonth": 1686,
     "timeYear": 1299,
     "dailyMinutesDown": {
@@ -1024,7 +1024,7 @@
     "uptimeYear": "95.58%",
     "time": 635,
     "timeDay": 1812,
-    "timeWeek": 517,
+    "timeWeek": 522,
     "timeMonth": 410,
     "timeYear": 624,
     "dailyMinutesDown": {
@@ -1080,7 +1080,7 @@
     "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
-    "uptimeMonth": "76.72%",
+    "uptimeMonth": "76.85%",
     "uptimeYear": "91.18%",
     "time": 799,
     "timeDay": 465,
@@ -1218,11 +1218,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cubari.moe.ico",
     "slug": "cubari-reddit",
     "status": "down",
-    "uptime": "96.39%",
-    "uptimeDay": "63.80%",
-    "uptimeWeek": "41.68%",
-    "uptimeMonth": "76.92%",
-    "uptimeYear": "89.23%",
+    "uptime": "96.38%",
+    "uptimeDay": "59.65%",
+    "uptimeWeek": "41.09%",
+    "uptimeMonth": "76.79%",
+    "uptimeYear": "89.21%",
     "time": 705,
     "timeDay": 2674,
     "timeWeek": 3009,
@@ -1310,7 +1310,7 @@
       "2026-08-28": 1292,
       "2026-08-29": 883,
       "2026-08-30": 463,
-      "2026-08-31": 57
+      "2026-08-31": 117
     }
   },
   {
